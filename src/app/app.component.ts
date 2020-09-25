@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'landing-page';
+  title = 'MUSURE: the virtual world of cinematic shows in epic venues';
+
+  irA() {
+    window.location.href = 'https://gmail.us2.list-manage.com/subscribe/post?u=a8b4a41febe74ba5755bd820e&id=54ee4535cd';
+   }
 }

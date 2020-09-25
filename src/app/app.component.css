@@ -67,3 +67,16 @@
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
   }
+
+  .slide2 {
+    position: absolute;
+    width: 100%;
+  }
+  
+  .slide3 {
+    position: absolute;
+    width: 100%;
+  }
+
+  /* display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(0px, 1fr)); */
