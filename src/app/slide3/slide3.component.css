@@ -1,0 +1,12 @@
+.fondoSlide3 {
+    width: 100%;
+    display: block;
+  }
+
+  .logo {
+    display: block;
+    position: absolute;
+    width: 30%;
+    margin: auto;
+  }
+  
