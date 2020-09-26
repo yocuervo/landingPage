@@ -1,12 +1,23 @@
-.fondoSlide3 {
-    width: 100%;
-    display: block;
-  }
+.slide3 {
+  width: 100%;
+  margin: auto auto;
+}
 
-  .logo {
-    display: block;
-    position: absolute;
-    width: 30%;
-    margin: auto;
-  }
-  
+.fondoSlide3 {
+  width: 100%;
+  margin: 0%;
+  position: absolute;
+}
+
+.contenedorLogo {
+  width: 100%;
+  display: block;
+  position: absolute;
+}
+
+.logo {
+  display: block;
+  position: absolute;
+  width: 30%;
+  margin: auto;
+}
