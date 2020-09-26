@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: poppinsBold;
+    src: url(assets/fonts/Poppins-Bold.otf) format("opentype");
+    font-family: poppinsMedium;
+    src: url(assets/fonts/Poppins-Medium.otf) format("opentype");
+    font-family: poppinsExtraBold;
+    src: url(assets/fonts/Poppins-ExtraBold.otf) format("opentype");
+}
