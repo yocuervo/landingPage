@@ -1,23 +1,20 @@
 .slide3 {
   width: 100%;
-  margin: auto auto;
+  margin: auto;
+  position: absolute;
+  display: block;
 }
 
 .fondoSlide3 {
   width: 100%;
-  margin: 0%;
+  margin: auto;
   position: absolute;
-}
-
-.contenedorLogo {
-  width: 100%;
   display: block;
-  position: absolute;
 }
 
 .logo {
   display: block;
-  position: absolute;
+  position: relative;
   width: 30%;
-  margin: auto;
+  margin: 45% auto;
 }
