@@ -1,56 +1,25 @@
 .slide1 {
   width: 100%;
-  margin: auto auto;
+  height: 100vh;
+  background: black;
+  overflow: hidden;
 }
 
-#video {
+video {
+  width: 100vw;
+}
+
+a {
     position: absolute;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: auto;
-    z-index: -10;
-    visibility: visible;
-    display: block;
-}
-
-.boton {
-    display: inline-block;
-    background-color: transparent;
+    z-index: 1;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    border: none;
     color: #FFFFFF;
     text-align: center;
     font-size: 35px;
-    padding: 10px;
+    padding: 5px;
     width: 100%;
-    transition: all 1s;
-    cursor: pointer;
-    margin: 40% auto;
-    position: absolute;
-  }
-   
-  .boton span {
-    cursor: pointer;
-    display: inline-block;
-    position: relative;
-    transition: 0.5s;
-  }
-   
-  .boton span:after {
-    position: absolute;
-    opacity: 0;
-    top: 0;
-    right: -20px;
-    transition: 0.5s;
-  }
-   
-  .boton:hover span {
-    padding-right: 25px;
-  }
-   
-  .boton:hover span:after {
-    opacity: 1;
-    right: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    top: 80%;
   }
   
