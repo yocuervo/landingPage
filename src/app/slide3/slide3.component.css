@@ -1,6 +1,8 @@
 .slide3 {
   width: 100%;
-  margin: auto;
+  margin: 74% auto;
+  display: block;
+  position: absolute;
 }
 
 .fondoSlide3 {
@@ -13,5 +15,6 @@
 .logo {
   display: block;
   width: 30%;
-  margin: 45% auto;
+  margin: 45% 35%;
+  position: absolute;
 }
